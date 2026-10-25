@@ -49,3 +49,9 @@ Los filtros se seleccionan con una pinza de índice y pulgar o con teclado. El g
 Prueba sin cámara: `.\.venv\Scripts\python.exe portal.py --self-test`. Comprueba los cinco efectos y que la imagen exterior al portal se conserve. La cámara y la fluidez en tu equipo requieren una prueba local.
 
 Documentación: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python
+Demostracion: 
+
+
+
+https://github.com/user-attachments/assets/9fadf855-96e2-4822-afba-52505dcf3512
+
